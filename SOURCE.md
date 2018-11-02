@@ -36,7 +36,7 @@ IMAGE 2 FILE
 
 IMAGE 2 ALT TEXT
 
-`Riyadh Garden`
+`garden.jpg`
 
 PARAGRAPH 3
 
@@ -61,5 +61,5 @@ LINK 1
 
 LINK 2
 
-`Wikipedia`
+`Wikipedia` <br>
 `http://en.wikipedia.org/wiki/Riyadh`
